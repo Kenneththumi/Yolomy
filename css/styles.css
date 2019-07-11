@@ -409,3 +409,20 @@ nav {
         width: 287px;
     }
 }
+
+.navbar-toggler{
+    padding: 5px 5px;
+}
+
+@media(min-width: 1920px){
+    .chevron-down {
+        margin-top: 47px;
+        margin-bottom: 105px;
+    }
+    .title {
+        height: 568px;
+    }
+    .section-1 {
+        padding-top: 117px;
+    }
+}
