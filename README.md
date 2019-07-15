@@ -20,10 +20,10 @@ To start using this project use the following commands:
 
 ## Technologies Used
 In this project, below is a list of technologies used:
--HTML
--CSS 
--[Bootrap 4](https://getbootstrap.com/)
--[jQuery](https://jquery.com/)
+- HTML
+- CSS 
+- [Bootrap 4](https://getbootstrap.com/)
+- [jQuery](https://jquery.com/)
 
 ## License info
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
